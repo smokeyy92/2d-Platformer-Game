@@ -5,7 +5,17 @@
       "ProjectGuid": "dc1b0e90-2b0a-f48e-8741-87a3b13dda1a",
       "DisplayName": "Assembly-CSharp",
       "ColorIndex": 0
+    },
+    "900e1bdc-0a2b-8ef4-8741-87a3b13dda1a": {
+      "ProjectGuid": "900e1bdc-0a2b-8ef4-8741-87a3b13dda1a",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
